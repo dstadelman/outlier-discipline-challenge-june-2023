@@ -23,10 +23,14 @@ Hypothesis:
 ## 2 June 2023
 
 * VSCode and python 3.11.3 was already installed 
-* Make a virtual python environment
+* Make a virtual python environment:
    * `python -m venv .venv`
-* Switch to the new virtual environment
+* Switch to the new virtual environment:
    * Windows `source .venv/Scripts/activate`
    * Linux / MacOS ? `source .venv/bin/activate`
-* Install some required libraries
+* Install some required libraries:
    * `pip install -r requirements.txt`
+* Added the python script `download_data.py` to get the stock data using yfinance.
+* Ran the newly created script to download the stock data using yfinance:
+   * `python download_data.py`
+
