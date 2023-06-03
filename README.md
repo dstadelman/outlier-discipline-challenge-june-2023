@@ -19,3 +19,14 @@ Hypothesis:
 
 * Started project and wrote hypothesis for the experiment
 * Found [list of dates of WWDC](https://en.wikipedia.org/wiki/Worldwide_Developers_Conference)
+
+## 2 June 2023
+
+* VSCode and python 3.11.3 was already installed 
+* Make a virtual python environment
+   * `python -m venv .venv`
+* Switch to the new virtual environment
+   * Windows `source .venv/Scripts/activate`
+   * Linux / MacOS ? `source .venv/bin/activate`
+* Install some required libraries
+   * `pip install -r requirements.txt`
