@@ -34,3 +34,9 @@ Hypothesis:
 * Ran the newly created script to download the stock data using yfinance:
    * `python download_data.py`
 
+## 3 June 2023
+
+* Added `ipykernel` and `matplotlib` library to requirements
+* Started `load_study.ipynb`
+   * Loaded AAPL data
+   * Printed histogram
