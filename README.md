@@ -40,3 +40,7 @@ Hypothesis:
 * Started `load_study.ipynb`
    * Loaded AAPL data
    * Printed histogram
+
+## 4 June 2023
+
+* Added dates of WWDC and started to encode them into a python understandable format
