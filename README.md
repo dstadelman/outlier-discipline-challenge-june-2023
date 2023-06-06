@@ -44,3 +44,9 @@ Hypothesis:
 ## 4 June 2023
 
 * Added dates of WWDC and started to encode them into a python understandable format
+
+## 5 June 2023
+
+* Finished up adding the WWDC dates and putting them into python understandable format
+
+
