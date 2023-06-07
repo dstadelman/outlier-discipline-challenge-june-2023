@@ -36,7 +36,8 @@ Hypothesis:
 
 ## 3 June 2023
 
-* Added `ipykernel` and `matplotlib` library to requirements
+* Added `ipykernel` and `matplotlib` library to requirements. If you are following along you must install these:
+   * `pip install -r requirements.txt`
 * Started `load_study.ipynb`
    * Loaded AAPL data
    * Printed histogram
@@ -49,4 +50,7 @@ Hypothesis:
 
 * Finished up adding the WWDC dates and putting them into python understandable format
 
+## 6 June 2023
 
+* Isolated the stock data to 20 trading days before and after WWDC
+* Printed some charts with the stock data
