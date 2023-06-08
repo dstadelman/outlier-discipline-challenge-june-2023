@@ -54,3 +54,7 @@ Hypothesis:
 
 * Isolated the stock data to 20 trading days before and after WWDC
 * Printed some charts with the stock data
+
+## 7 June 2023
+
+* Calculated skew and kurtosis of returns - AAPL is a little more negative skew with a more leptokurtic distribution than SPY.
