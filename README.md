@@ -58,3 +58,8 @@ Hypothesis:
 ## 7 June 2023
 
 * Calculated skew and kurtosis of returns - AAPL is a little more negative skew with a more leptokurtic distribution than SPY.
+
+## 8 June 2023
+
+* Isolated time periods 20 trading days before, during, and 20 trading after the WWDC event.
+
