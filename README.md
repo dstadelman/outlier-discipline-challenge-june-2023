@@ -63,3 +63,10 @@ Hypothesis:
 
 * Isolated time periods 20 trading days before, during, and 20 trading after the WWDC event.
 
+## 9 June 2023
+
+* Analyzed the retrieved stats with Erik
+
+## 10 June 2023
+
+* Exported close data to CSV.
