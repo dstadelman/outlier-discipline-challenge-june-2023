@@ -70,3 +70,7 @@ Hypothesis:
 ## 10 June 2023
 
 * Exported close data to CSV.
+
+## 11 June 2023
+
+* Loaded close data into Excel and started taking a look at it.
