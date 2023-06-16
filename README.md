@@ -74,3 +74,38 @@ Hypothesis:
 ## 11 June 2023
 
 * Loaded close data into Excel and started taking a look at it.
+
+## 12-14 June 2023
+
+* Worked through some of the data in excel and found that there were on average positive returns before WWDC, negative returns during WWDC, and about flat returns after WWDC.
+
+| | 20 days before | 10 days before | 5 days before |
+| ----------- | ----------- | ----------- | ----------- |
+| average	| 3.91%	| 3.32%	| 2.41% |
+| stddev	| 10.04%	| 8.24%	| 4.72% |
+
+| |	event return|
+| ----------- | ----------- |
+| average	| -1.24% |
+| stddev	| 4.24% |
+
+
+| |	20 days after	|10 days after	|5 days after |
+| ----------- | ----------- | ----------- | ----------- |
+|average	|0.67%	|-0.14%	|-0.22% |
+|stddev	|8.32%	|5.27%	|3.47% |
+
+## 15 June 2023
+
+* Looked at IV around the events. 
+* Marked `IV crush` TRUE if IV dropped by some amount (based on my eyeball) during the event. 
+* Marked `greater IV crush than previous earnings?` TRUE if IV was greater the day before earnings vs before the most recent earnings announcement. 
+
+| year | IV crush (IV greater than 10% IV30 drop) | IV crush than previous earnings? |
+| 2023 | FALSE | FALSE |
+| 2022 | FALSE | FALSE |
+| 2021 | FALSE | FALSE |
+| 2020 | FALSE | FALSE |
+| 2019 | FALSE | FALSE |
+
+* The only trade I can see over WWDC is one where if you are bullish AAPL before WWDC, you can have a little more conviction in the run up to the event. I don't see a trading strategy here.
