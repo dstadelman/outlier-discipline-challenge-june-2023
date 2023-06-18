@@ -109,3 +109,16 @@ Hypothesis:
 | 2019 | FALSE | FALSE |
 
 * The only trade I can see over WWDC is one where if you are bullish AAPL before WWDC, you can have a little more conviction in the run up to the event. I don't see a trading strategy here.
+
+## 16 June 2023
+
+* Discussed trading biotech with Erik and the rest of the Outlier gang 
+
+## 17 June 2023
+
+* Read some of the getting started in biotech trading documents on https://www.biopharmcatalyst.com/
+
+## 18 June 2023
+
+* Investigated two popular biotech ETFs, IBB and XBI; XBI is equal weight while IBB is weighted. Looked at pricing of ATM straddles. 
+* Marked up a candlestick chart and generated volatility cone for XBI.
