@@ -122,3 +122,7 @@ Hypothesis:
 
 * Investigated two popular biotech ETFs, IBB and XBI; XBI is equal weight while IBB is weighted. Looked at pricing of ATM straddles. 
 * Marked up a candlestick chart and generated volatility cone for XBI.
+
+## 19 June 2023
+
+* Downloaded a list XBI holdings, loaded into TradingView, and flipped through the charts. 
