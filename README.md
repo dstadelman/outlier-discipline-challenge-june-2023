@@ -125,4 +125,56 @@ Hypothesis:
 
 ## 19 June 2023
 
-* Downloaded a list XBI holdings, loaded into TradingView, and flipped through the charts. 
+* Downloaded a list XBI holdings, loaded into TradingView, and flipped through the charts.
+
+## 20 June 2023
+
+* Started tracking upcoming catalysts; tomorrow ALDX.
+
+## 21 June 2023
+
+* Watched ALDX this morning. The stock was halted and wasn’t trading due to the announcement at market open. Once the stock opened, options seemed to take quite a bit of time to  open… maybe 5-10 minutes.
+* ALDX opened down 50% but rallied off these lows to close down 27%
+
+## 22 June 2023
+
+* Learning more about biotech trading. I saw on a calendar that ICPT and SRPT were to have a PDUFA decision, but it didn’t seem to happen. This is not like earnings releases where it is known what day something is happening exactly!
+
+## 23 June 2023
+
+* Watched SRPT and ICPT . Much like an earnings release, SRPT reacted as you would expect with negative news (down 10%) while ICPT also received bad FDA news, but stock remained about the same price.
+* I still don't really understand when exactly the news will be released and timeline of the stock response on PDUFA  announcements.
+
+## 24 June 2023
+
+* Worked on breadth indicator for XBI - in TradingView
+
+## 25 June 2023
+
+* Looked up biotech catalysts for this week!
+* This week the decisions are on REGN ETON and AMRX.
+
+## 26 Jun 2023
+ 
+* The options market seems pretty wide in REGN and ETON. AMRX is still wide but not horrible.
+* Read about AMRX’s trial of a Parkinson’s Disease drug and how it’s evaluated during the double blind test: https://investors.amneal.com/news/press-releases/press-release-details/2022/Amneal-Announces-U.S.-FDA-Filing-Acceptance-of-New-Drug-Application-for-IPX203-for-the-Treatment-of-Parkinsons-Disease/default.aspx 
+
+## 27 Jun 2023
+
+* Put on a one lot in AMRX, sold 2.5/5 call spread and sold the 2.5 put.
+
+## 28 Jun 2023
+
+* Started using thinkorswim's thinkBack feature to look at the results of historical PDUFA announcemnts: https://www.fdatracker.com/fda-calendar/
+
+
+
+
+
+
+
+
+
+
+
+
